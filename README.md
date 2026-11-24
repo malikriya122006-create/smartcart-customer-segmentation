@@ -101,7 +101,7 @@ Identified four customer segments:
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/malikriya122006-create/smartcart-customer-segmentation 
    ```
 
 2. Navigate to the project directory:
